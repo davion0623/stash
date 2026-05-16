@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,www.steampowered.com
+DOMAIN-SUFFIX,help.steampowered.com
+DOMAIN-SUFFIX,checkout.steampowered.com
+DOMAIN-SUFFIX,login.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
+DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
+DOMAIN-KEYWORD,steamstore
+DOMAIN-KEYWORD,steamcommunity
+DOMAIN-KEYWORD,steamuserimages
