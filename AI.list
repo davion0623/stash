@@ -1,5 +1,5 @@
 # 规则名称: AI
-# 规则统计: 48
+# 规则统计: 47
 
 DOMAIN,ai.google.dev
 DOMAIN,aida.googleapis.com
@@ -46,6 +46,5 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,sora.com
-DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 DOMAIN-KEYWORD,openai
